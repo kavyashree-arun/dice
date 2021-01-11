@@ -1,2 +1,1 @@
 # dice
-the dice challenge
